@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,10,80&height=300&section=header&text=Lee%20YongIn0517&fontSize=90)</br>
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&customColorList=20,10,80&height=300&section=header&text=Lee%20YongIn0517&fontSize=90)</br>
 
   <strong>:satisfied: Hi there! I'm moblie app developer using Android.</br>
 :muscle:I'm really into learning new things and always working on a side project!</strong>

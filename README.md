@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 <img alt="ReactiveX" src ="https://img.shields.io/badge/ReactiveX-F80090.svg?&style=flat-square&logo=ReactiveX&logoColor=8B008F"/>
 <strong>:dolphin:Take a look at the blog I created: <a href="https://velog.io/@yongin01"> yongin01 velog </a><br/></strong>
 
-![LeeYongIn0517's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongIn0517&theme=prussian&show_icons=true)
+![LeeYongIn0517's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongIn0517)
+
 </p>

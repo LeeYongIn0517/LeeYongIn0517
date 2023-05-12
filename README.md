@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <strong>:dolphin:Take a look at the blog I created: <a href="https://velog.io/@yongin01"> yongin01 velog </a><br/></strong>
 
 ![LeeYongIn0517's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongIn0517)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=log20)](https://solved.ac/log20/)
 </p>

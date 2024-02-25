@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat-square&logo=Android&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/>
 <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/Python-306998.svg?&style=flat-square&logo=Python&logoColor=FFD43B"/> <img alt="Java" src ="https://img.shields.io/badge/Java-f89820.svg?&style=flat-square&logo=Java&logoColor=5382a1"/> <img alt="Android" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/> <img alt="Android" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=black"/> 
 #### Tools
-<img alt="ReactiveX" src ="https://img.shields.io/badge/ReactiveX-F80090.svg?&style=flat-square&logo=ReactiveX&logoColor=8B008F"/>
 <strong>:dolphin:Take a look at the blog I created: <a href="https://velog.io/@yongin01"> yongin01 velog </a><br/></strong>
 
 ![LeeYongIn0517's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeYongIn0517)
